@@ -18,6 +18,6 @@ public class SpringDocConfig {
                         .license(new License().name("Apache 2.0").url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
                         .description("Link do Repositório da Aplicação - APIRestful Documentation")
-                        .url(""));
+                        .url("https://github.com/OLuiz-Daniel/api_funcionarios"));
     }
 }
